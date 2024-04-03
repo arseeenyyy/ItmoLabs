@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<collection>
-	<dragons>
-		<dragon id="260" name="toothless" x="67851" y="9999.999" creationDate="2024-03-20T00:03:09.601180533" age="120" description="strongest dragon" wingspan="56.0" color="BROWN" cave="999999" />
-		<dragon id="2318" name="odeyalo" x="912" y="7127.0" creationDate="2024-03-20T15:55:34.128045156" age="6789" description="ordinary dragon" wingspan="689.0" color="BROWN" cave="988" />
-		<dragon id="4606" name="geek" x="951" y="778.0" creationDate="2024-03-20T15:54:53.249745992" age="129" description="cleverest dragon" wingspan="6789.0" color="BLUE" cave="6789" />
-	</dragons>
-</collection>
